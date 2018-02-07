@@ -13,5 +13,4 @@
     </td>  
   </tr>  
 </table>  
-
-Each Category of assignment is held in a branch. 
+Each category of assignment is held in a branch. 
